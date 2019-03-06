@@ -1,0 +1,260 @@
+2019-03-04T09:48:04 SEND2ME Starting
+2019-03-04T09:48:04 SEND2ME Starting
+2019-03-04T09:48:05 SEND2ME Starting
+2019-03-04T09:48:05 SEND2ME Starting
+2019-03-04T09:48:06 SEND2ME Starting
+2019-03-04T09:48:06 SEND2ME Starting
+2019-03-04T09:48:07 SEND2ME Starting
+2019-03-04T09:48:07 SEND2ME Starting
+2019-03-04T09:48:08 SEND2ME Starting
+2019-03-04T09:48:08 SEND2ME Starting
+2019-03-04T09:48:09 SEND2ME Starting
+2019-03-04T09:48:09 SEND2ME Starting
+2019-03-04T09:48:10 SEND2ME Starting
+2019-03-04T09:48:10 SEND2ME Starting
+2019-03-04T09:48:11 SEND2ME Starting
+2019-03-04T09:48:11 SEND2ME Starting
+2019-03-04T09:48:12 SEND2ME Starting
+2019-03-04T10:18:35 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101834-01.jpg']]
+2019-03-04T10:18:35 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101834-01.jpg; filename: 01-20190304101834-01.jpg
+2019-03-04T10:18:36 SEND2ME Done
+2019-03-04T10:18:36 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101835-01.jpg']]
+2019-03-04T10:18:36 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101835-01.jpg; filename: 01-20190304101835-01.jpg
+2019-03-04T10:18:37 SEND2ME Done
+2019-03-04T10:18:35 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101835-00.jpg']]
+2019-03-04T10:18:35 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101835-00.jpg; filename: 01-20190304101835-00.jpg
+2019-03-04T10:18:38 SEND2ME Done
+2019-03-04T10:18:37 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101836-01.jpg']]
+2019-03-04T10:18:37 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101836-01.jpg; filename: 01-20190304101836-01.jpg
+2019-03-04T10:18:39 SEND2ME Done
+2019-03-04T10:18:37 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101837-00.jpg']]
+2019-03-04T10:18:37 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101837-00.jpg; filename: 01-20190304101837-00.jpg
+2019-03-04T10:18:40 SEND2ME Done
+2019-03-04T10:18:36 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101836-00.jpg']]
+2019-03-04T10:18:36 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101836-00.jpg; filename: 01-20190304101836-00.jpg
+2019-03-04T10:18:41 SEND2ME Done
+2019-03-04T10:18:38 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101837-01.jpg']]
+2019-03-04T10:18:38 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101837-01.jpg; filename: 01-20190304101837-01.jpg
+2019-03-04T10:18:42 SEND2ME Done
+2019-03-04T10:18:38 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101838-00.jpg']]
+2019-03-04T10:18:38 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101838-00.jpg; filename: 01-20190304101838-00.jpg
+2019-03-04T10:18:42 SEND2ME Done
+2019-03-04T10:18:39 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101838-01.jpg']]
+2019-03-04T10:18:39 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101838-01.jpg; filename: 01-20190304101838-01.jpg
+2019-03-04T10:18:43 SEND2ME Done
+2019-03-04T10:18:40 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101839-01.jpg']]
+2019-03-04T10:18:40 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101839-01.jpg; filename: 01-20190304101839-01.jpg
+2019-03-04T10:18:43 SEND2ME Done
+2019-03-04T10:18:39 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101839-00.jpg']]
+2019-03-04T10:18:39 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101839-00.jpg; filename: 01-20190304101839-00.jpg
+2019-03-04T10:18:44 SEND2ME Done
+2019-03-04T10:18:40 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101840-00.jpg']]
+2019-03-04T10:18:40 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101840-00.jpg; filename: 01-20190304101840-00.jpg
+2019-03-04T10:18:45 SEND2ME Done
+2019-03-04T10:18:41 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101840-01.jpg']]
+2019-03-04T10:18:41 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101840-01.jpg; filename: 01-20190304101840-01.jpg
+2019-03-04T10:18:45 SEND2ME Done
+2019-03-04T10:18:41 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101841-00.jpg']]
+2019-03-04T10:18:41 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101841-00.jpg; filename: 01-20190304101841-00.jpg
+2019-03-04T10:18:46 SEND2ME Done
+2019-03-04T10:18:42 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101842-00.jpg']]
+2019-03-04T10:18:42 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101842-00.jpg; filename: 01-20190304101842-00.jpg
+2019-03-04T10:18:47 SEND2ME Done
+2019-03-04T10:18:43 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101842-01.jpg']]
+2019-03-04T10:18:43 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101842-01.jpg; filename: 01-20190304101842-01.jpg
+2019-03-04T10:18:47 SEND2ME Done
+2019-03-04T10:18:42 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304101841-01.jpg']]
+2019-03-04T10:18:42 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304101841-01.jpg; filename: 01-20190304101841-01.jpg
+2019-03-04T10:18:48 SEND2ME Done
+2019-03-04T10:33:42 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304103240.avi']]
+2019-03-04T10:33:42 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304103240.avi; filename: 01-20190304103240.avi
+2019-03-04T10:33:44 SEND2ME Done
+2019-03-04T10:47:47 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/02-20190304104645.avi']]
+2019-03-04T10:47:47 SEND2ME Sending file: fullpath : /var/lib/motion/02-20190304104645.avi; filename: 02-20190304104645.avi
+2019-03-04T10:47:49 SEND2ME Done
+2019-03-04T10:49:02 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/03-20190304104846.avi']]
+2019-03-04T10:49:02 SEND2ME Sending file: fullpath : /var/lib/motion/03-20190304104846.avi; filename: 03-20190304104846.avi
+2019-03-04T10:49:05 SEND2ME Done
+2019-03-04T10:50:19 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304104911.avi']]
+2019-03-04T10:50:19 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304104911.avi; filename: 01-20190304104911.avi
+2019-03-04T10:50:23 SEND2ME Done
+2019-03-04T10:52:55 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/02-20190304105153.avi']]
+2019-03-04T10:52:55 SEND2ME Sending file: fullpath : /var/lib/motion/02-20190304105153.avi; filename: 02-20190304105153.avi
+2019-03-04T10:52:57 SEND2ME Done
+2019-03-04T10:57:21 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/03-20190304105621.avi']]
+2019-03-04T10:57:21 SEND2ME Sending file: fullpath : /var/lib/motion/03-20190304105621.avi; filename: 03-20190304105621.avi
+2019-03-04T10:57:23 SEND2ME Done
+2019-03-04T11:03:15 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304110111.avi']]
+2019-03-04T11:03:15 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304110111.avi; filename: 01-20190304110111.avi
+2019-03-04T11:03:23 SEND2ME Done
+2019-03-04T11:40:44 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/02-20190304113943.avi']]
+2019-03-04T11:40:44 SEND2ME Sending file: fullpath : /var/lib/motion/02-20190304113943.avi; filename: 02-20190304113943.avi
+2019-03-04T11:40:47 SEND2ME Done
+2019-03-04T11:49:39 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/03-20190304114833.avi']]
+2019-03-04T11:49:39 SEND2ME Sending file: fullpath : /var/lib/motion/03-20190304114833.avi; filename: 03-20190304114833.avi
+2019-03-04T11:49:42 SEND2ME Done
+2019-03-04T11:54:08 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/04-20190304115229.avi']]
+2019-03-04T11:54:08 SEND2ME Sending file: fullpath : /var/lib/motion/04-20190304115229.avi; filename: 04-20190304115229.avi
+2019-03-04T11:54:13 SEND2ME Done
+2019-03-04T12:31:57 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/05-20190304123057.avi']]
+2019-03-04T12:31:57 SEND2ME Sending file: fullpath : /var/lib/motion/05-20190304123057.avi; filename: 05-20190304123057.avi
+2019-03-04T12:32:29 SEND2ME Done
+2019-03-04T12:36:08 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/06-20190304123508.avi']]
+2019-03-04T12:36:08 SEND2ME Sending file: fullpath : /var/lib/motion/06-20190304123508.avi; filename: 06-20190304123508.avi
+2019-03-04T12:36:10 SEND2ME Done
+2019-03-04T12:43:01 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/07-20190304124201.avi']]
+2019-03-04T12:43:01 SEND2ME Sending file: fullpath : /var/lib/motion/07-20190304124201.avi; filename: 07-20190304124201.avi
+2019-03-04T12:43:04 SEND2ME Done
+2019-03-04T12:46:23 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/08-20190304124522.avi']]
+2019-03-04T12:46:23 SEND2ME Sending file: fullpath : /var/lib/motion/08-20190304124522.avi; filename: 08-20190304124522.avi
+2019-03-04T12:46:25 SEND2ME Done
+2019-03-04T12:47:52 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/09-20190304124651.avi']]
+2019-03-04T12:47:52 SEND2ME Sending file: fullpath : /var/lib/motion/09-20190304124651.avi; filename: 09-20190304124651.avi
+2019-03-04T12:47:54 SEND2ME Done
+2019-03-04T13:04:00 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/10-20190304130300.avi']]
+2019-03-04T13:04:00 SEND2ME Sending file: fullpath : /var/lib/motion/10-20190304130300.avi; filename: 10-20190304130300.avi
+2019-03-04T13:04:06 SEND2ME Done
+2019-03-04T13:06:44 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/11-20190304130535.avi']]
+2019-03-04T13:06:44 SEND2ME Sending file: fullpath : /var/lib/motion/11-20190304130535.avi; filename: 11-20190304130535.avi
+2019-03-04T13:06:52 SEND2ME Done
+2019-03-04T13:08:07 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/12-20190304130706.avi']]
+2019-03-04T13:08:07 SEND2ME Sending file: fullpath : /var/lib/motion/12-20190304130706.avi; filename: 12-20190304130706.avi
+2019-03-04T13:08:09 SEND2ME Done
+2019-03-04T13:35:36 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/13-20190304133436.avi']]
+2019-03-04T13:35:36 SEND2ME Sending file: fullpath : /var/lib/motion/13-20190304133436.avi; filename: 13-20190304133436.avi
+2019-03-04T13:35:38 SEND2ME Done
+2019-03-04T13:40:19 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/14-20190304133915.avi']]
+2019-03-04T13:40:19 SEND2ME Sending file: fullpath : /var/lib/motion/14-20190304133915.avi; filename: 14-20190304133915.avi
+2019-03-04T13:40:25 SEND2ME Done
+2019-03-04T13:45:29 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/15-20190304134414.avi']]
+2019-03-04T13:45:29 SEND2ME Sending file: fullpath : /var/lib/motion/15-20190304134414.avi; filename: 15-20190304134414.avi
+2019-03-04T13:45:34 SEND2ME Done
+2019-03-04T13:48:22 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/16-20190304134657.avi']]
+2019-03-04T13:48:22 SEND2ME Sending file: fullpath : /var/lib/motion/16-20190304134657.avi; filename: 16-20190304134657.avi
+2019-03-04T13:48:28 SEND2ME Done
+2019-03-04T14:02:06 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/17-20190304140051.avi']]
+2019-03-04T14:02:06 SEND2ME Sending file: fullpath : /var/lib/motion/17-20190304140051.avi; filename: 17-20190304140051.avi
+2019-03-04T14:02:17 SEND2ME Done
+2019-03-04T14:03:22 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/18-20190304140221.avi']]
+2019-03-04T14:03:22 SEND2ME Sending file: fullpath : /var/lib/motion/18-20190304140221.avi; filename: 18-20190304140221.avi
+2019-03-04T14:03:26 SEND2ME Done
+2019-03-04T14:09:47 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/19-20190304140846.avi']]
+2019-03-04T14:09:47 SEND2ME Sending file: fullpath : /var/lib/motion/19-20190304140846.avi; filename: 19-20190304140846.avi
+2019-03-04T14:09:49 SEND2ME Done
+2019-03-04T14:28:30 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/20-20190304142727.avi']]
+2019-03-04T14:28:30 SEND2ME Sending file: fullpath : /var/lib/motion/20-20190304142727.avi; filename: 20-20190304142727.avi
+2019-03-04T14:28:33 SEND2ME Done
+2019-03-04T14:58:04 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/21-20190304145704.avi']]
+2019-03-04T14:58:04 SEND2ME Sending file: fullpath : /var/lib/motion/21-20190304145704.avi; filename: 21-20190304145704.avi
+2019-03-04T14:58:07 SEND2ME Done
+2019-03-04T15:16:30 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/22-20190304151530.avi']]
+2019-03-04T15:16:30 SEND2ME Sending file: fullpath : /var/lib/motion/22-20190304151530.avi; filename: 22-20190304151530.avi
+2019-03-04T15:16:32 SEND2ME Done
+2019-03-04T15:51:13 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/23-20190304154959.avi']]
+2019-03-04T15:51:13 SEND2ME Sending file: fullpath : /var/lib/motion/23-20190304154959.avi; filename: 23-20190304154959.avi
+2019-03-04T15:51:19 SEND2ME Done
+2019-03-04T16:15:44 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190304161223.avi']]
+2019-03-04T16:15:44 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190304161223.avi; filename: 01-20190304161223.avi
+2019-03-04T16:16:04 SEND2ME Done
+2019-03-04T16:19:30 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/02-20190304161622.avi']]
+2019-03-04T16:19:30 SEND2ME Sending file: fullpath : /var/lib/motion/02-20190304161622.avi; filename: 02-20190304161622.avi
+2019-03-04T16:19:49 SEND2ME Done
+2019-03-04T16:20:46 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/03-20190304161946.avi']]
+2019-03-04T16:20:46 SEND2ME Sending file: fullpath : /var/lib/motion/03-20190304161946.avi; filename: 03-20190304161946.avi
+2019-03-04T16:20:49 SEND2ME Done
+2019-03-04T17:36:12 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/04-20190304173502.avi']]
+2019-03-04T17:36:12 SEND2ME Sending file: fullpath : /var/lib/motion/04-20190304173502.avi; filename: 04-20190304173502.avi
+2019-03-04T17:36:18 SEND2ME Done
+2019-03-04T17:43:42 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/05-20190304174241.avi']]
+2019-03-04T17:43:42 SEND2ME Sending file: fullpath : /var/lib/motion/05-20190304174241.avi; filename: 05-20190304174241.avi
+2019-03-04T17:43:44 SEND2ME Done
+2019-03-04T20:39:01 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/06-20190304203801.avi']]
+2019-03-04T20:39:01 SEND2ME Sending file: fullpath : /var/lib/motion/06-20190304203801.avi; filename: 06-20190304203801.avi
+2019-03-04T20:39:05 SEND2ME Done
+2019-03-04T21:58:54 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/07-20190304215754.avi']]
+2019-03-04T21:58:54 SEND2ME Sending file: fullpath : /var/lib/motion/07-20190304215754.avi; filename: 07-20190304215754.avi
+2019-03-04T21:58:57 SEND2ME Done
+2019-03-04T22:17:04 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/08-20190304221553.avi']]
+2019-03-04T22:17:04 SEND2ME Sending file: fullpath : /var/lib/motion/08-20190304221553.avi; filename: 08-20190304221553.avi
+2019-03-04T22:17:09 SEND2ME Done
+2019-03-04T23:38:35 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/09-20190304233724.avi']]
+2019-03-04T23:38:35 SEND2ME Sending file: fullpath : /var/lib/motion/09-20190304233724.avi; filename: 09-20190304233724.avi
+2019-03-04T23:38:40 SEND2ME Done
+2019-03-05T08:09:54 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190305080849.avi']]
+2019-03-05T08:09:54 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190305080849.avi; filename: 01-20190305080849.avi
+2019-03-05T08:10:01 SEND2ME Done
+2019-03-05T09:01:11 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/02-20190305090010.avi']]
+2019-03-05T09:01:11 SEND2ME Sending file: fullpath : /var/lib/motion/02-20190305090010.avi; filename: 02-20190305090010.avi
+2019-03-05T09:01:16 SEND2ME Done
+2019-03-05T11:26:10 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/03-20190305112505.avi']]
+2019-03-05T11:26:10 SEND2ME Sending file: fullpath : /var/lib/motion/03-20190305112505.avi; filename: 03-20190305112505.avi
+2019-03-05T11:26:14 SEND2ME Done
+2019-03-05T11:36:35 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/04-20190305113459.avi']]
+2019-03-05T11:36:35 SEND2ME Sending file: fullpath : /var/lib/motion/04-20190305113459.avi; filename: 04-20190305113459.avi
+2019-03-05T11:36:42 SEND2ME Done
+2019-03-05T11:52:35 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/05-20190305115114.avi']]
+2019-03-05T11:52:35 SEND2ME Sending file: fullpath : /var/lib/motion/05-20190305115114.avi; filename: 05-20190305115114.avi
+2019-03-05T11:52:38 SEND2ME Done
+2019-03-05T12:13:48 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/06-20190305121247.avi']]
+2019-03-05T12:13:48 SEND2ME Sending file: fullpath : /var/lib/motion/06-20190305121247.avi; filename: 06-20190305121247.avi
+2019-03-05T12:13:51 SEND2ME Done
+2019-03-05T13:36:01 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/07-20190305133501.avi']]
+2019-03-05T13:36:01 SEND2ME Sending file: fullpath : /var/lib/motion/07-20190305133501.avi; filename: 07-20190305133501.avi
+2019-03-05T13:36:03 SEND2ME Done
+2019-03-05T13:42:09 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/08-20190305134109.avi']]
+2019-03-05T13:42:09 SEND2ME Sending file: fullpath : /var/lib/motion/08-20190305134109.avi; filename: 08-20190305134109.avi
+2019-03-05T13:42:11 SEND2ME Done
+2019-03-05T15:12:23 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/09-20190305151123.avi']]
+2019-03-05T15:12:23 SEND2ME Sending file: fullpath : /var/lib/motion/09-20190305151123.avi; filename: 09-20190305151123.avi
+2019-03-05T15:12:27 SEND2ME Done
+2019-03-05T18:20:25 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/10-20190305181925.avi']]
+2019-03-05T18:20:25 SEND2ME Sending file: fullpath : /var/lib/motion/10-20190305181925.avi; filename: 10-20190305181925.avi
+2019-03-05T18:20:31 SEND2ME Done
+2019-03-05T20:39:24 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/11-20190305203824.avi']]
+2019-03-05T20:39:24 SEND2ME Sending file: fullpath : /var/lib/motion/11-20190305203824.avi; filename: 11-20190305203824.avi
+2019-03-05T20:39:27 SEND2ME Done
+2019-03-05T22:10:22 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/12-20190305220857.avi']]
+2019-03-05T22:10:22 SEND2ME Sending file: fullpath : /var/lib/motion/12-20190305220857.avi; filename: 12-20190305220857.avi
+2019-03-05T22:10:29 SEND2ME Done
+2019-03-05T23:38:26 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/13-20190305233716.avi']]
+2019-03-05T23:38:26 SEND2ME Sending file: fullpath : /var/lib/motion/13-20190305233716.avi; filename: 13-20190305233716.avi
+2019-03-05T23:38:31 SEND2ME Done
+2019-03-06T07:04:04 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/01-20190306070303.avi']]
+2019-03-06T07:04:04 SEND2ME Sending file: fullpath : /var/lib/motion/01-20190306070303.avi; filename: 01-20190306070303.avi
+2019-03-06T07:04:08 SEND2ME Done
+2019-03-06T07:05:31 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/02-20190306070431.avi']]
+2019-03-06T07:05:31 SEND2ME Sending file: fullpath : /var/lib/motion/02-20190306070431.avi; filename: 02-20190306070431.avi
+2019-03-06T07:05:33 SEND2ME Done
+2019-03-06T07:07:33 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/03-20190306070536.avi']]
+2019-03-06T07:07:33 SEND2ME Sending file: fullpath : /var/lib/motion/03-20190306070536.avi; filename: 03-20190306070536.avi
+2019-03-06T07:07:41 SEND2ME Done
+2019-03-06T08:45:19 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/04-20190306084419.avi']]
+2019-03-06T08:45:19 SEND2ME Sending file: fullpath : /var/lib/motion/04-20190306084419.avi; filename: 04-20190306084419.avi
+2019-03-06T08:45:22 SEND2ME Done
+2019-03-06T10:08:09 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/05-20190306100708.avi']]
+2019-03-06T10:08:09 SEND2ME Sending file: fullpath : /var/lib/motion/05-20190306100708.avi; filename: 05-20190306100708.avi
+2019-03-06T10:08:16 SEND2ME Done
+2019-03-06T10:43:51 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/06-20190306104241.avi']]
+2019-03-06T10:43:51 SEND2ME Sending file: fullpath : /var/lib/motion/06-20190306104241.avi; filename: 06-20190306104241.avi
+2019-03-06T10:43:56 SEND2ME Done
+2019-03-06T11:12:49 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/07-20190306111149.avi']]
+2019-03-06T11:12:49 SEND2ME Sending file: fullpath : /var/lib/motion/07-20190306111149.avi; filename: 07-20190306111149.avi
+2019-03-06T11:12:52 SEND2ME Done
+2019-03-06T11:21:16 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/08-20190306112016.avi']]
+2019-03-06T11:21:16 SEND2ME Sending file: fullpath : /var/lib/motion/08-20190306112016.avi; filename: 08-20190306112016.avi
+2019-03-06T11:21:18 SEND2ME Done
+2019-03-06T11:22:46 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/09-20190306112146.avi']]
+2019-03-06T11:22:46 SEND2ME Sending file: fullpath : /var/lib/motion/09-20190306112146.avi; filename: 09-20190306112146.avi
+2019-03-06T11:22:48 SEND2ME Done
+2019-03-06T11:24:20 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/10-20190306112320.avi']]
+2019-03-06T11:24:20 SEND2ME Sending file: fullpath : /var/lib/motion/10-20190306112320.avi; filename: 10-20190306112320.avi
+2019-03-06T11:24:22 SEND2ME Done
+2019-03-06T11:26:22 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/11-20190306112425.avi']]
+2019-03-06T11:26:22 SEND2ME Sending file: fullpath : /var/lib/motion/11-20190306112425.avi; filename: 11-20190306112425.avi
+2019-03-06T11:26:28 SEND2ME Done
+2019-03-06T11:30:14 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/12-20190306112810.avi']]
+2019-03-06T11:30:14 SEND2ME Sending file: fullpath : /var/lib/motion/12-20190306112810.avi; filename: 12-20190306112810.avi
+2019-03-06T11:30:21 SEND2ME Done
+2019-03-06T11:37:08 SEND2ME Starting with sys.argv = [['/home/pi/send2me/send2me.py', '/var/lib/motion/13-20190306113608.avi']]
+2019-03-06T11:37:08 SEND2ME Sending file: fullpath : /var/lib/motion/13-20190306113608.avi; filename: 13-20190306113608.avi
+2019-03-06T11:37:10 SEND2ME Done
